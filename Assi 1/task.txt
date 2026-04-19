@@ -1,0 +1,24 @@
+Tasks to be performed - 
+
+Download the dataset
+Import datafiles
+Read dataset
+Display dataset (head, tail)
+Identify (missing values)
+Data cleaning
+Find the central tendency for any 2 numerical columns
+Imputations -		     
+Mean imputation
+Local imputation
+Global imputation
+Standard scalar imputation
+Zero imputation
+Identify the outliers
+Identify independent and dependent variables
+Perform Normalisation (use z-score)
+Perform Scaling
+Data Visualisation -  At least 5 to 7 visualisation graphs (histogram, bargraph, piechart, piegraph, scatter-plot, box-plot, kde)
+Analysis - 
+Univariate 
+Bivariate 
+Multivariate 
